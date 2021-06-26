@@ -8,13 +8,16 @@
 - CSS
 - Javascript
 
-📖 Bibliotecas
+## 📖 Bibliotecas
 
 - <a href="https://fonts.google.com/">Google Fonts</a>   
 - <a href="https://swiperjs.com/">SwipeJs</a>
 - <a href="https://scrollrevealjs.org/">ScrollRevel</a>
 
-🔖 Utilitários
+## 🔖 Utilitários
 
 - <a href="https://randomuser.me/">randomuser.me</a> 
 - <a href="https://icomoon.io/">IconMoon</a>
+
+## Layout
+<p>Você pode visualizar o layout deste projeto através deste <a href="https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six?node-id=0%3A1">link</a>. É necessário ter uma conta no <a href="https://www.figma.com/">Figma</a>
