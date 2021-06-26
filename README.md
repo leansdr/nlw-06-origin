@@ -1,6 +1,6 @@
 # 💻 Projeto OriginSix
-Projeto desenvolvido durante a semana NLW #06 - Mission:Origin da Rocketseat
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+<p>Projeto desenvolvido durante a semana NLW #06 - Mission:Origin da Rocketseat</p>
+<p>OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.</p>
 
 ## 🚀 Tecnologias utilizadas
 
