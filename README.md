@@ -9,11 +9,11 @@ Projeto desenvolvido durante o NLW #06 - Mission:Origin da Rocketseat
 
 Bibliotecas
 
-- Google Fonts
-- SwipeJs
-- ScrollRevel
+- <a href="https://fonts.google.com/">Google Fonts</a>   
+- <a href="https://fonts.google.com/">SwipeJs</a>
+- <a href="https://fonts.google.com/">ScrollRevel</a>
 
 Utilitários
 
-- randomuser.me
-- IconMoon
+- <a href="https://fonts.google.com/">randomuser.me</a> 
+- <a href="https://fonts.google.com/">IconMoon</a>
