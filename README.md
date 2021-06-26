@@ -1,4 +1,4 @@
-# nlw-06-origin
+# Projeto OriginSix
 Projeto desenvolvido durante o NLW #06 - Mission:Origin da Rocketseat
 
 ## Tecnologias utilizadas
